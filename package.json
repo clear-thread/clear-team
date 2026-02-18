@@ -3,8 +3,8 @@
   "version": "0.3.0",
   "description": "An elite AI squad extension for the Gemini CLI, featuring Julian (Marketer), Maya (PM), and Serra (Engineer).",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1\",
-    \"extension:refresh\": \"gemini extensions uninstall clear-team && gemini extensions install .\"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "extension:refresh": "gemini extensions uninstall clear-team && gemini extensions install ."
   },
   "keywords": [],
   "author": "",
