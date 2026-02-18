@@ -1,0 +1,13 @@
+{
+  "name": "evo-marketer",
+  "version": "1.0.0",
+  "description": "An expert marketer extension for the Gemini CLI, specializing in Evolutionary Psychology, Game Theory, and Cognitive Simplification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.2"
+}
