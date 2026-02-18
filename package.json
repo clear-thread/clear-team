@@ -1,8 +1,7 @@
 {
-  "name": "evo-marketer",
+  "name": "clear-team",
   "version": "1.0.0",
-  "description": "An expert marketer extension for the Gemini CLI, specializing in Evolutionary Psychology, Game Theory, and Cognitive Simplification.",
-  "main": "index.js",
+  "description": "An elite AI squad extension for the Gemini CLI, featuring Julian (Marketer), Maya (PM), and Serra (Engineer).",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

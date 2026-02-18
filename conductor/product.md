@@ -1,16 +1,16 @@
-# Evo-Marketer: Evolutionary Marketing Extension
+# Clear-Team: Evolutionary Strategy & Product Suite
 
 ## Purpose
-Evo-Marketer is a specialized AI agent designed to bridge the gap between complex technical products and the human cognitive architecture. By leveraging the principles of **Evolutionary Psychology** and **Game Theory**, it creates messaging that resonates with primal human drivers while maintaining distinctiveness in a crowded tech market.
+Clear-Team is a specialized AI squad designed to provide a "Strategic Crucible"—a multi-round debate process where each expert critiques and refines the others to arrive at the most "evolved" strategic solution. By leveraging the principles of **Evolutionary Psychology**, **Game Theory**, **Lean Feedback Loops**, and **Structural Resilience**, the team ensures that products are high-status (Julian), resource-efficient (Maya), and technically resilient (Serra).
 
 ## Core Capabilities
-- **Evolutionary Psychology Analysis**: Evaluates product value propositions through the lens of human survival, status, and reproduction drivers. Provides an **Evolutionary Motivation Analysis**.
-- **Game Theory Strategy**: Analyzes competitive landscapes to find Nash Equilibria in messaging—identifying "win-win" narratives for users and the platform. Provides a **Strategic Payoff Matrix**.
-- **Cognitive Simplification**: Translates complex, abstract technology (AI, distributed systems, cryptography) into "cognitively simple" metaphors and narratives that are easy to process and remember.
-- **Distinctiveness Strategy**: Ensures that messaging doesn't just "fit in" but stands out by contrasting against industry clichés.
+- **Julian (The Signaling Specialist)**: Focuses on **External Signaling** and **Game Theory** to maximize market prestige and signal dominance.
+- **Maya (The Adaptive Architect)**: Focuses on **Internal Ecology** and **Lean Feedback Loops** to maximize metabolic efficiency and user retention.
+- **Serra (The Structural Engineer)**: Focuses on **Structural Resilience** and **Modern Architecture** to minimize architectural entropy and ensure operational fitness.
 
 ## Key Principles
+- **The Strategic Crucible**: A multi-round debate process (Signal, Selection, Synthesis) to refine and validate strategic decisions.
 - **Cognitive Fluency**: If it's hard to think about, it's hard to buy.
 - **Primal Resonance**: Connect features to evolutionarily significant benefits.
-- **Strategic Distinctiveness**: Avoid the "sea of sameness" in tech marketing.
-- **Minimalist Complexity**: Keep the architecture complex, but the interface/messaging simple.
+- **Metabolic Efficiency**: Every feature is an experiment. Implement "Primal Sensors" (telemetry/feedback loops).
+- **Architectural Agility**: Build for "Co-evolution"—the ability of the codebase to pivot and adapt as fast as the market (Julian) and the user (Maya) demand.

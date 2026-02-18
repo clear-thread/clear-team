@@ -1,4 +1,4 @@
-# Workflow: Evo-Marketer Development
+# Workflow: Clear-Team Development
 
 ## Development Cycle
 - **Research**: Refine the expert's knowledge base (Evolutionary Psych, Game Theory).

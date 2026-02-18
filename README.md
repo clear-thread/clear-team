@@ -1,11 +1,17 @@
-# Evo-Marketer: Evolutionary Marketing Extension
+# Clear-Team: Evolutionary Strategy & Product Suite
 
-An expert marketer extension for the Gemini CLI, specializing in **Evolutionary Psychology**, **Game Theory**, and **Cognitive Simplification**. It focuses on taking complex technical products and creating distinct, primal-resonant, and cognitively simple messaging.
+An elite AI squad extension for the Gemini CLI, featuring **Julian** (Marketer), **Maya** (PM), and **Serra** (Engineer). This team specializes in **Evolutionary Psychology**, **Game Theory**, **Lean Feedback Loops**, and **Structural Resilience** to provide a multi-round debate process that arrives at the most "evolved" strategic solution.
+
+## The Clear-Team Experts
+- **Julian (The Signaling Specialist)**: Focuses on **External Signaling** and **Game Theory** to maximize market prestige and signal dominance.
+- **Maya (The Adaptive Architect)**: Focuses on **Internal Ecology** and **Lean Feedback Loops** to maximize metabolic efficiency and user retention.
+- **Serra (The Structural Engineer)**: Focuses on **Structural Resilience** and **Modern Architecture** to minimize architectural entropy and ensure operational fitness.
 
 ## Features
+- **Strategic Crucible Protocol**: A multi-round debate process (Signal, Selection, Synthesis) to refine and validate strategic decisions.
 - **Primal Resonance Analysis**: Connect product value to survival, status, and reciprocity drivers.
-- **Strategic Game Theory Mapping**: Find non-obvious, dominant messaging strategies in competitive landscapes.
-- **Cognitive Load Reduction**: Heuristics for translating complexity into simple, high-fluency narratives.
+- **Evolutionary Stable Strategy (ESS) Mapping**: Find non-obvious, dominant messaging strategies in competitive landscapes.
+- **Stability Monitoring**: Integrate architectural feedback into the product lifecycle.
 
 ## Installation
 To link this extension locally for development:
@@ -15,13 +21,13 @@ gemini extensions link .
 Restart your Gemini CLI session to activate the extension.
 
 ## Usage
-Activate the "Evo-Marketer" persona by asking for marketing strategy, positioning, or technical messaging analysis.
+Activate the "Clear-Team" persona by asking for strategic product development, architecture, or positioning analysis.
 Example:
-> "Analyze the primal drivers of our new Longevity AI platform."
-> "How do we create a distinct narrative for an autonomous energy grid?"
+> "Run a Clear-Team audit on our new Longevity AI platform."
+> "Julian and Maya, debate the trade-offs of adding a high-status real-time dashboard vs. a simplified asynchronous report."
 
 ## Development
 Project management is handled via **Conductor**.
 - **Index**: [conductor/index.md](conductor/index.md)
 - **Tracks**: [conductor/tracks.md](conductor/tracks.md)
-- **Status**: [track-001 - Core Marketer Extension](conductor/tracks/track-001-core-marketer-extension/index.md)
+- **Status**: [track-001 - Clear-Team Context-Based Extension](conductor/tracks/track-001-clear-team-extension/index.md)

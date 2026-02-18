@@ -1,4 +1,4 @@
-# Tech Stack: Evo-Marketer Extension
+# Tech Stack: Clear-Team Extension
 
 ## Extension Platform
 - **Gemini CLI Extension Framework**: Developed as a Gemini CLI extension for seamless integration into the developer workflow.
