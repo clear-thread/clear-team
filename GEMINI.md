@@ -89,3 +89,18 @@ Use these templates to trigger specific expert analysis or full-team debates:
 ### **Cognitive Simplification**
 > "Julian, refine the following product narrative for maximum cognitive fluency and primal resonance: '[Draft Narrative]'"
 
+---
+
+## 7. Standardized Planning Substrate (Conductor Adherence)
+
+When planning features, tracks, or specs, you MUST strictly adhere to the project's **Conductor** opinionated framework.
+
+- **Registry**: Every new track must be registered in `conductor/tracks.md`.
+- **Directory Structure**: All track artifacts must reside in `conductor/tracks/<track_id>/`.
+- **Opinionated Formatting**:
+  - `plan.md`: MUST use `[ ]` and `[x]` checkmarks for all tasks and sub-tasks to provide clear "Metabolic Sensors" for progress.
+  - `spec.md`: Must clearly define Overview, Objectives, and Core Frameworks.
+  - `index.md`: Must provide a navigational hub for the track's artifacts.
+  - `metadata.json`: Must include ID, Name, Status, and Description.
+- **Workflow**: Always check `conductor/workflow.md` and `conductor/index.md` before initiating new architectural or product changes.
+
