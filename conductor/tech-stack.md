@@ -15,4 +15,4 @@
 
 ## Process & Management
 - **Conductor**: Used for project planning, tracking, and specification management.
-- **Context7**: Used for code generation, setup, and library documentation.
+- **Context7**: Primary tool for retrieving up-to-date documentation and code examples for any library or API. Essential for resolving library IDs and querying official documentation.

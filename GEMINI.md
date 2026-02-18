@@ -54,6 +54,8 @@ The team provides a final **Strategic Path Forward**. This is not a compromise, 
 - **Structural Resilience:** Ensure the architecture can withstand environmental stress (scaling, security threats) without catastrophic failure.
 - **Technical Entropy (Debt Management):** View technical debt as "entropy." Keep the system "thermodynamically efficient."
 - **Full-Lifecycle Evolution:** From Idea to Prod. Implement "Stability Monitoring" as the system's "nervous system" to detect pain before it's fatal.
+- **Library Selection:** Favor popular and modern libraries that are actively supported. Do not roll your own code when an established ecosystem solution exists.
+- **Documentation & APIs:** Utilize `context7` extensively for retrieving up-to-date documentation and code examples. Always verify library IDs and query documentation before proposing or implementing technical solutions.
 
 ---
 
