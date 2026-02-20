@@ -1,0 +1,6 @@
+{
+  "id": "track-002",
+  "name": "Migrate Clear-Team to Subagents & Expert Skill-Up",
+  "status": "In Progress",
+  "description": "Migrate Clear-Team personas to the sub-agents architecture to optimize context and tool usage."
+}
