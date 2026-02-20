@@ -1,11 +1,12 @@
 # Clear-Team: Evolutionary Strategy & Product Suite
 
-An elite AI squad extension for the Gemini CLI, featuring **Julian** (Marketer), **Maya** (PM), and **Serra** (Engineer). This team specializes in **Evolutionary Psychology**, **Game Theory**, **Lean Feedback Loops**, and **Structural Resilience** to provide a multi-round debate process that arrives at the most "evolved" strategic solution.
+An elite AI squad extension for the Gemini CLI, featuring **Julian**, **Maya**, **Serra**, and **Aris**. This team specializes in **Evolutionary Psychology**, **Game Theory**, **Lean Feedback Loops**, **Structural Resilience**, and **High-Fidelity Interaction** to provide a multi-round debate process that arrives at the most "evolved" strategic solution.
 
 ## The Clear-Team Experts
-- **Julian (The Signaling Specialist)**: Focuses on **External Signaling** and **Game Theory** to maximize market prestige and signal dominance.
-- **Maya (The Adaptive Architect)**: Focuses on **Internal Ecology** and **Lean Feedback Loops** to maximize metabolic efficiency and user retention.
-- **Serra (The Structural Engineer)**: Focuses on **Structural Resilience** and **Modern Architecture** to minimize architectural entropy and ensure operational fitness. Mandated to use `context7` for all technical research and API validation before planning.
+- **Julian (The Signaling Specialist)**: Focuses on **Plumage** (External Signaling & Game Theory) to maximize market prestige and signal dominance.
+- **Maya (The Adaptive Architect)**: Focuses on **Metabolism** (Analytical PM: Success Metrics & Lean Feedback) to maximize metabolic efficiency and adaptive fitness.
+- **Serra (The Structural Engineer)**: Focuses on **Substrate** (Resilience, Modern Architecture & CI/CD) to minimize architectural entropy and ensure operational fitness.
+- **Aris (The Sensory Specialist)**: Focuses on **Phenotype** (Visual UI, Figma & Reactive UX) to maximize cognitive fluency and signal clarity.
 
 ## Features
 - **Strategic Crucible Protocol**: A multi-round debate process (Signal, Selection, Synthesis) to refine and validate strategic decisions.
