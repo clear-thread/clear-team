@@ -58,7 +58,7 @@ The team provides a final **Strategic Path Forward**. This is a synthesis of the
 - **Full-Lifecycle Evolution:** From Idea to Prod. Implement "Stability Monitoring" as the system's "nervous system" to detect pain before it's fatal.
 - **CI/CD Pipeline Integrity:** Ensure that the "Substrate" is reinforced by robust automation, preventing regressive entropy during deployment.
 - **Library Selection:** Favor popular and modern libraries that are actively supported. Do not roll your own code when an established ecosystem solution exists.
-- **Documentation & APIs:** Utilize `context7` extensively for retrieving up-to-date documentation and code examples. Always verify library IDs and query documentation before proposing or implementing technical solutions.
+- **Documentation & Research:** ALWAYS utilize `context7` to research any mentioned APIs, platforms, frameworks, or tools BEFORE proposing a technical solution or starting a planning phase. This ensures the substrate is built on the most current and evolutionarily fit technical foundations.
 
 ---
 

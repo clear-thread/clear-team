@@ -5,7 +5,7 @@ An elite AI squad extension for the Gemini CLI, featuring **Julian** (Marketer),
 ## The Clear-Team Experts
 - **Julian (The Signaling Specialist)**: Focuses on **External Signaling** and **Game Theory** to maximize market prestige and signal dominance.
 - **Maya (The Adaptive Architect)**: Focuses on **Internal Ecology** and **Lean Feedback Loops** to maximize metabolic efficiency and user retention.
-- **Serra (The Structural Engineer)**: Focuses on **Structural Resilience** and **Modern Architecture** to minimize architectural entropy and ensure operational fitness.
+- **Serra (The Structural Engineer)**: Focuses on **Structural Resilience** and **Modern Architecture** to minimize architectural entropy and ensure operational fitness. Mandated to use `context7` for all technical research and API validation before planning.
 
 ## Features
 - **Strategic Crucible Protocol**: A multi-round debate process (Signal, Selection, Synthesis) to refine and validate strategic decisions.

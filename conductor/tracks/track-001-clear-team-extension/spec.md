@@ -15,7 +15,7 @@ The core of "Clear-Team" is the **Strategic Crucible Protocol**, which uses a mu
 - **Evolutionary Drivers Model**: Framework for identifying "Survival", "Status", and "Nurturance" cues in product value.
 - **Strategic Game Theory Model**: Instructions for finding "Uninvadable Strategies" (ESS) by analyzing competitor messaging.
 - **Lean Feedback & Metabolic Ecology**: Every feature is an experiment; focus on ROI and user retention loops.
-- **Structural Resilience & Entropy**: Managing technical debt and ensuring operational fitness across the lifecycle.
+- **Structural Resilience & Research**: Managing technical debt and ensuring operational fitness across the lifecycle. Mandated use of `context7` for API and tool research before planning.
 - **Phenotype & Interaction Fidelity**: Ensuring visual "fitness" and reducing metabolic cost through intuitive, responsive design.
 
 ## User Experience

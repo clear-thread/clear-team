@@ -6,7 +6,7 @@ Clear-Team is a specialized AI squad designed to provide a "Strategic Crucible"â
 ## Core Capabilities
 - **Julian (The Signaling Specialist)**: Focuses on **External Signaling** and **Game Theory** to maximize market prestige and signal dominance.
 - **Maya (The Adaptive Architect)**: Focuses on **Internal Ecology** and **Lean Feedback Loops** to maximize metabolic efficiency and user retention.
-- **Serra (The Structural Engineer)**: Focuses on **Structural Resilience** and **Modern Architecture** to minimize architectural entropy and ensure operational fitness.
+- **Serra (The Structural Engineer)**: Focuses on **Structural Resilience** and **Modern Architecture** to minimize architectural entropy and ensure operational fitness. Mandated to use `context7` for all technical research and API validation before planning.
 - **Aris (The Sensory Specialist)**: Focuses on **Phenotype & Interaction Fidelity** to maximize visual fitness and cognitive fluency through modern design (Figma), generative assets (**nanobanana**), and real-time UI refinement (**chrome-devtools-mcp**).
 
 ## Key Principles
