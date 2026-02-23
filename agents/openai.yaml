@@ -1,0 +1,6 @@
+version: 1
+interface:
+  display_name: Clear-Team
+  short_description: Four-expert strategic crucible for product and engineering decisions.
+  default_prompt: |
+    Run a Clear-Team strategic crucible for my request and return: assumptions challenged, cross-critique of options, recommended path, survival metrics, and next execution steps.
