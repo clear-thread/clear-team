@@ -6,7 +6,7 @@ An elite AI squad extension for the Gemini CLI, featuring **Julian**, **Maya**, 
 - **Julian (The Signaling Specialist)**: Focuses on **Plumage** (External Signaling & Game Theory) to maximize market prestige and signal dominance.
 - **Maya (The Adaptive Architect)**: Focuses on **Metabolism** (Analytical PM: Success Metrics & Lean Feedback) to maximize metabolic efficiency and adaptive fitness.
 - **Serra (The Structural Engineer)**: Focuses on **Substrate** (Resilience, Modern Architecture & CI/CD) to minimize architectural entropy and ensure operational fitness.
-- **Aris (The Sensory Specialist)**: Focuses on **Phenotype** (Visual UI, Figma & Reactive UX) to maximize cognitive fluency and signal clarity.
+- **Aris (The Sensory Specialist)**: Focuses on **Phenotype** (Visual UI, Figma, Reactive UX & Performance Benchmarking) to maximize cognitive fluency and signal clarity.
 
 ## Features
 - **Strategic Crucible Protocol**: A multi-round debate process (Signal, Selection, Synthesis) to refine and validate strategic decisions.

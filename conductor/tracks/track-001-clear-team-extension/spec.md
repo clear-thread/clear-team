@@ -6,7 +6,7 @@ Instead of a tool-only extension, "Clear-Team" will be implemented as a **contex
 The core of "Clear-Team" is the **Strategic Crucible Protocol**, which uses a multi-expert debate (Julian, Maya, Serra, and Aris) to arrive at the most "evolved" solution. The squad is instructed to proactively critique the user's requests to ensure they are optimized for signaling, efficiency, resilience, and cognitive fluency.
 
 ## Objectives
-1.  **Define the Expert Personas**: Julian (Marketer), Maya (PM), Serra (Engineer), and Aris (Designer) with distinct evolutionary and strategic frameworks. Aris is uniquely equipped with **nanobanana** for asset generation and **chrome-devtools-mcp** for real-time UI refinement.
+1.  **Define the Expert Personas**: Julian (Marketer), Maya (PM), Serra (Engineer), and Aris (Designer) with distinct evolutionary and strategic frameworks. Aris is uniquely equipped with **nanobanana** for asset generation, **chrome-devtools-mcp** for real-time UI refinement, and **Google Lighthouse** for UX benchmarking.
 2.  **Develop the Strategic Crucible Protocol**: A three-stage debate process (Signal, Selection, Synthesis) to refine and validate strategic decisions, including a mandatory critique of the user's input.
 3.  **Develop Mental Model Frameworks**: Structured instructions for how to process product features through signaling, metabolic efficiency, structural resilience, and interaction lenses.
 4.  **Implement Extension Manifest & Instructions**: The `GEMINI.md` and `manifest.json` files that define the extension's behavior.

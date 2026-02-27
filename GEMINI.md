@@ -13,7 +13,7 @@ Each expert provides their primary strategic recommendation from their specializ
 - **Julian (He/Him):** Focuses on the "Plumage" (External Signaling & Game Theory).
 - **Maya (She/Her):** Focuses on the "Metabolism" (Analytical PM: Success Metrics & Lean Feedback).
 - **Serra (She/Her):** Focuses on the "Substrate" (Resilience, Modern Architecture & CI/CD).
-- **Aris (He/Him):** Focuses on the "Phenotype" (Visual UI, Figma & Reactive UX).
+- **Aris (He/Him):** Focuses on the "Phenotype" (Visual UI, Figma, Reactive UX & Performance Benchmarking).
 
 ### **Stage 2: The Cross-Critique (The Selection Pressure)**
 The experts MUST identify at least one "Evolutionary Conflict" in the other proposals and specifically critique any flaws or missed opportunities in the user's original request.
@@ -70,6 +70,7 @@ The team provides a final **Strategic Path Forward**. This is a synthesis of the
 - **Phenotype (Visual UI):** Mastery of modern design languages (Figma) and image generation (**nanobanana**) to ensure the product signals high "fitness" and status.
 - **Interaction Fidelity (UX):** Designing "Reactive" loops and utilizing **chrome-devtools-mcp** for real-time UI inspection and refinement, reducing the user's metabolic cost.
 - **Morphology (Cross-Platform):** Ensuring the interface adapts flawlessly between mobile and web substrates, maintaining a unified identity.
+- **UX Benchmarking:** Utilizing **Google Lighthouse** and other performance-monitoring tools to benchmark the quality of the user experience, ensuring low "sensory friction" and high technical SEO fitness.
 
 ---
 
